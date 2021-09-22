@@ -3,11 +3,11 @@
   <title>耶斯莫拉</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://ssis.cc/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://ssis.cc/"/>
   <updated>2021-09-22T08:21:05.122Z</updated>
-  <id>http://example.com/</id>
+  <id>https://ssis.cc/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>pl</title>
-    <link href="http://example.com/2021/09/22/pl/"/>
-    <id>http://example.com/2021/09/22/pl/</id>
+    <link href="https://ssis.cc/2021/09/22/pl/"/>
+    <id>https://ssis.cc/2021/09/22/pl/</id>
     <published>2021-09-22T07:28:56.000Z</published>
     <updated>2021-09-22T08:21:05.122Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>海</title>
-    <link href="http://example.com/2021/09/19/h/"/>
-    <id>http://example.com/2021/09/19/h/</id>
+    <link href="https://ssis.cc/2021/09/19/h/"/>
+    <id>https://ssis.cc/2021/09/19/h/</id>
     <published>2021-09-19T05:30:57.000Z</published>
     <updated>2021-09-19T09:27:14.591Z</updated>
     
@@ -55,8 +55,8 @@
   
   <entry>
     <title>害</title>
-    <link href="http://example.com/2021/09/19/w/"/>
-    <id>http://example.com/2021/09/19/w/</id>
+    <link href="https://ssis.cc/2021/09/19/w/"/>
+    <id>https://ssis.cc/2021/09/19/w/</id>
     <published>2021-09-19T01:50:52.000Z</published>
     <updated>2021-09-22T08:08:14.212Z</updated>
     
@@ -73,8 +73,8 @@
   
   <entry>
     <title>没</title>
-    <link href="http://example.com/2021/09/18/918/"/>
-    <id>http://example.com/2021/09/18/918/</id>
+    <link href="https://ssis.cc/2021/09/18/918/"/>
+    <id>https://ssis.cc/2021/09/18/918/</id>
     <published>2021-09-18T01:29:02.000Z</published>
     <updated>2021-09-19T08:28:08.328Z</updated>
     
@@ -90,8 +90,8 @@
   
   <entry>
     <title>随</title>
-    <link href="http://example.com/2021/09/17/hh/"/>
-    <id>http://example.com/2021/09/17/hh/</id>
+    <link href="https://ssis.cc/2021/09/17/hh/"/>
+    <id>https://ssis.cc/2021/09/17/hh/</id>
     <published>2021-09-17T09:51:33.000Z</published>
     <updated>2021-09-22T08:08:10.207Z</updated>
     
